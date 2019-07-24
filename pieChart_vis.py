@@ -7,7 +7,7 @@ from  matplotlib import style
 
 X=[12,2,7,4,5]
 Y=["X1","X2","X3","X4","X5"]
-C=['r','k','b','m','d']
+C=['r','k','b','m','y']
 
 
 plt.pie(X,labels=Y,colors=C)
